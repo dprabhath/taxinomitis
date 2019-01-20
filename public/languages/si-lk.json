@@ -20,7 +20,7 @@
         "LOGIN": "ඇතුල් වෙන්න",
         "LOGOUT": "පිට වෙන්න",
 
-        "BETA": "Beta",
+        "BETA": "බීටා",
         "INCOMPLETE": "අසම්පූර්ණයි!"
     },
     "ABOUT": {
@@ -78,7 +78,7 @@
         "ERROR": "<strong>Error:</strong> {{ message }}",
         "ERROR_HELP": "මෙය නැවත නැවත සිදුවන්නේ නම්, කරුණාකර අපේ help page එකට යන්න",
         "FIRST_TIME": "මෙතැනට අළුත්ද?",
-        "SIGN_UP": "Sing up වෙන්න",
+        "SIGN_UP": "Sign up වෙන්න",
         "WHY_REGISTER": "ඇයි register වෙන්නෙ?",
         "WHY_REGISTER_INTRO_1": "පොඩ්ඩන්ට machine learning භාවිතයට <strong> ලියාපදිංචි වීමට හෝ ගිණුම් සෑදීමට අවශ්‍ය නොවේ </strong> නමුත් ඔබ ලියාපදිංචි වුවහොත් මෙවලමට අමතර විශේෂාංග කිහිපයක් එක්වෙයි.",
         "WHY_REGISTER_INTRO_2": "පහත වගුව මගින් ඔබට ලියාපදිංචි නොවී \"Try it now\" click කිරීම හා ඔබ ගිණුමක් සකස් කළ විට කළ හැකි දේවල් අතර වෙනස පැහැදිලි කරයි.",
